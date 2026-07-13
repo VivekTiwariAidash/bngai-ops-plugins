@@ -1,7 +1,6 @@
 [general]
-name = BNGAI Demo
-version = 1.0.1
-qgisminimumversion = 3.0
-description = Live github backing test
-author = Vivek
-
+name=BNGAI Demo
+version=1.0.0
+qgisMinimumVersion=3.0
+description=Live github backing test
+author=Vivek
