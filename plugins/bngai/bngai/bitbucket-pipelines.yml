@@ -1,0 +1,48 @@
+image: atlassian/default-image:3
+
+pipelines:
+  default:
+    - parallel:
+        - step:
+            name: 'Build and Test'
+            runs-on: 
+              - 'self.hosted'
+            script:
+              - echo "Running Build and Tests on Self-Hosted Runner..."
+              # - Add your build and test commands here
+
+        - step:
+            name: 'Lint'
+            runs-on: 
+              - 'self.hosted'
+            script:
+              - echo "Running Linter on Self-Hosted Runner..."
+              # - Add your linting commands here
+
+        - step:
+            name: 'Gitleaks Secret Scan'
+            runs-on: 
+              - 'self.hosted'
+            image: zricethezav/gitleaks:latest
+            script:
+              - echo "Running Gitleaks on Self-Hosted Runner..."
+              - gitleaks detect --verbose --redact --exit-code 1 --source . --no-git
+
+    - step:
+        name: 'Deploy to Staging'
+        runs-on: 
+          - 'self.hosted'
+        deployment: staging
+        script:
+          - echo "Deploying to Staging on Self-Hosted Runner..."
+          # - Add staging deployment commands here
+
+    - step:
+        name: 'Deploy to Production'
+        runs-on: 
+          - 'self.hosted'
+        deployment: production
+        # trigger: 'manual'
+        script:
+          - echo "Deploying to Production on Self-Hosted Runner..."
+          # - Add production deployment commands here

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/bngai" >
+        <file>icon.png</file>
+        <file>refresh.png</file>
+    </qresource>
+</RCC>

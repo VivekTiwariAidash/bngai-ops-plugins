@@ -1,0 +1,3469 @@
+{
+  "h5i": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c11": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h9i": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e14": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "n12": {
+    "condition": ["good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h14": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f1": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h2": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "s1": {
+    "condition": ["NA - other"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d19": {
+    "condition": [],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h29": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g22": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o9": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h1i": {
+    "condition": ["good"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h15": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f19": {
+    "condition": ["NA - other"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h9": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c25": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f4": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l10": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e8": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g3i": {
+    "condition": ["NA - other"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l1": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h20": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "k4": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d18": {
+    "condition": [],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d1": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g14": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l14": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o4": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": ["major", "minor", "no_encroachment"],
+    "riparian_encroachment": [
+      "major-major",
+      "major-moderate",
+      "major-minor",
+      "major-no_encroachment",
+      "moderate-moderate",
+      "moderate-minor",
+      "moderate-no_encroachment",
+      "minor-minor",
+      "minor-no_encroachment",
+      "no_encroachment-no_encroachment"
+    ]
+  },
+  "p8": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p16": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a13": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e11": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p3": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h4i": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c5": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c27": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g13": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "n13": {
+    "condition": ["poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a8": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g1": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e2": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l4": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d11": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b9": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p9": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f5": {
+    "condition": ["NA - other"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f15": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e4": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "n11": {
+    "condition": ["good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d20": {
+    "condition": [],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e24": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e9": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o8": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a3": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g25": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f14": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "r2i": {
+    "condition": [
+      "NA - other",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": ["small", "medium", "large", "very_large"],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h3": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e17": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c29": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h30": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a22": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c4": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b20": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d12": {
+    "condition": [],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a6": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f12": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e18": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c8": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f24": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e26": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l12": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "j4": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g24": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "m1": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d10": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d21": {
+    "condition": [],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a11": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p20": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f6": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "r2": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": ["small", "medium", "large", "very_large"],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b19": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b29": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o2": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": ["major", "minor", "no_encroachment"],
+    "riparian_encroachment": [
+      "major-major",
+      "major-moderate",
+      "major-minor",
+      "major-no_encroachment",
+      "moderate-moderate",
+      "moderate-minor",
+      "moderate-no_encroachment",
+      "minor-minor",
+      "minor-no_encroachment",
+      "no_encroachment-no_encroachment"
+    ]
+  },
+  "d7": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h12i": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g17": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h1": {
+    "condition": ["good"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h26": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f23": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c16": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "n2": {
+    "condition": ["good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b28": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b6": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b5": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e22": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f22": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g9": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o10": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g16": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d15": {
+    "condition": [],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p4": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f3": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h3i": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l5": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e27": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l16": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c20": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "n4": {
+    "condition": ["good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c31": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "n10": {
+    "condition": ["good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e6": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g21": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f17": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f25": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d3": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p10": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a1": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g20": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d14": {
+    "condition": [],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h8": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l17": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p21": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p22": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c32": {
+    "condition": [],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g12": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h31i": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b3": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e5": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o13": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h7i": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d6": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o1": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": ["major", "minor", "no_encroachment"],
+    "riparian_encroachment": [
+      "major-major",
+      "major-moderate",
+      "major-minor",
+      "major-no_encroachment",
+      "moderate-moderate",
+      "moderate-minor",
+      "moderate-no_encroachment",
+      "minor-minor",
+      "minor-no_encroachment",
+      "no_encroachment-no_encroachment"
+    ]
+  },
+  "f20": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b22": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c6": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l2": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a21": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f13": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c9": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "i1": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b24": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b13": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a2": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c15": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c30": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p5": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h13": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l7": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c14": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "n5": {
+    "condition": ["good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "r1i": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": ["small", "medium", "large", "very_large"],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l9": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h5": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "j3": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a15": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p12": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l3": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f2": {
+    "condition": ["NA - other"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b15": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "j8": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h32": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d8": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c17": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e23": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h25": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b10": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f21": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "j1": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "n1": {
+    "condition": ["good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l15": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "n3": {
+    "condition": ["good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a9": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p11": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o11": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e19": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a16": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b4": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h27": {
+    "condition": ["good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b21": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c23": {
+    "condition": ["good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o15": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c33": {
+    "condition": [],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h23": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o12": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a19": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h31": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c3": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l13": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h19": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a20": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f18": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a10": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b16": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e12": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b11": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c1": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a5": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d4": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b1": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d9": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p18": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h6i": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b8": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h30i": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c12": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "n9": {
+    "condition": ["good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a23": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h28": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e21": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b26": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l6": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e29": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b17": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b25": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p2": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a24": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e15": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c10": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h4": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f16": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h11i": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o3": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": ["major", "minor", "no_encroachment"],
+    "riparian_encroachment": [
+      "major-major",
+      "major-moderate",
+      "major-minor",
+      "major-no_encroachment",
+      "moderate-moderate",
+      "moderate-minor",
+      "moderate-no_encroachment",
+      "minor-minor",
+      "minor-no_encroachment",
+      "no_encroachment-no_encroachment"
+    ]
+  },
+  "d2": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g18": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o5": {
+    "condition": ["poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": ["culvert"],
+    "riparian_encroachment": ["na_culvert"]
+  },
+  "c2": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a14": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g6": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g19": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h12": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "m2": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p17": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b27": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b14": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o17": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b23": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "k3": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g8": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g3": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g11": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "n6": {
+    "condition": ["good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a17": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o7": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l11": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "j6": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "n8": {
+    "condition": ["good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g10": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g2": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b2": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h7": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f11": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h16": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d13": {
+    "condition": [],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e16": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "r1": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": ["small", "medium", "large", "very_large"],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p14": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h21": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e28": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d17": {
+    "condition": [],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p15": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "j2": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "q1": {
+    "condition": ["NA - other"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f7": {
+    "condition": ["NA - other"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g15": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "n7": {
+    "condition": ["good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e3": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o18": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d16": {
+    "condition": [],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c28": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e13": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e10": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "d5": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p19": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a18": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o6": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h29i": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "k1": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c26": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g26": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g7": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h11": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "l8": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g4": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e1": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p7": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e7": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g5": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h10": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c7": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h22": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h6": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "k2": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p1": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a7": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h17": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h2i": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b30": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "g23": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "r3": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o14": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "j5": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a12": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "j7": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "m3": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "r4": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h10i": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e25": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "a4": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h24": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "f8": {
+    "condition": ["condition assessment NA"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h13i": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b31": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h8i": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "o16": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "h18": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c19": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c13": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c21": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "e20": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p6": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b7": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b12": {
+    "condition": ["fairly good", "fairly poor", "good", "moderate", "poor"],
+    "strategic_significance": ["low", "medium", "high"],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "p13": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "c18": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  },
+  "b18": {
+    "condition": [
+      "NA - other",
+      "condition assessment NA",
+      "fairly good",
+      "fairly poor",
+      "good",
+      "moderate",
+      "poor"
+    ],
+    "strategic_significance": [],
+    "distinctiveness": ["very low", "low", "medium", "high", "very_high"],
+    "tree_size": [],
+    "watercourse_encroachment": [],
+    "riparian_encroachment": []
+  }
+}

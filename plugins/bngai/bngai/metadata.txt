@@ -1,0 +1,43 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=bngai
+qgisMinimumVersion=3.0
+description=BNG AI Plugin for managing projects, teams, and data
+version=1.1.1
+author=Vivek Tiwari
+email=vivek.tiwari@aidash.com
+
+about=The BNG AI Plugin provides a dockable widget for QGIS that allows users to log in to their BNG AI account, select an organization, and manage projects. Features include user authentication, organization management, and project browsing.
+
+tracker=https://github.com/bngai/qgis-plugin/issues
+repository=https://github.com/bngai/qgis-plugin
+# End of mandatory metadata
+
+# Recommended items:
+changelog=
+    1.0.1 - Initial version with user authentication and project management
+
+# Tags are comma separated with spaces allowed
+tags=bng, biodiversity, habitat, species, survey, cloud
+
+homepage=https://bngai.com
+category=Web
+icon=resources/icon.png
+
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+plugin_dependencies=
+
+# If the plugin can run on QGIS Server.
+server=False
+
