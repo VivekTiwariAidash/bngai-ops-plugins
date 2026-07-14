@@ -2,7 +2,7 @@
 name = bngai
 qgisminimumversion = 3.0
 description = BNG AI Plugin for managing projects, teams, and data
-version = 1.1.3
+version = 1.1.4
 author = Vivek Tiwari
 email = vivek.tiwari@aidash.com
 about = The BNG AI Plugin provides a dockable widget for QGIS that allows users to log in to their BNG AI account, select an organization, and manage projects. Features include user authentication, organization management, and project browsing.
