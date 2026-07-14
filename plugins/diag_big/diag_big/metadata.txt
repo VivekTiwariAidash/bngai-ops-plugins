@@ -1,0 +1,5 @@
+[general]
+name=DiagBig
+version=0.0.1
+qgisMinimumVersion=3.0
+description=40-file timing test
