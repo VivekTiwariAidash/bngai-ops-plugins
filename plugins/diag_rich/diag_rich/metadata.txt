@@ -1,0 +1,15 @@
+[general]
+name=Diag Rich
+version=1.0.0
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.99
+description=A metadata-rich diagnostic plugin
+about=Longer about text explaining what this plugin does in detail.
+author=Vivek Tiwari
+email=vivek.tiwari@aidash.com
+tags=raster,vegetation,internal
+homepage=https://ops.bng.ai
+repository=https://github.com/VivekTiwariAidash/bngai-ops-plugins
+tracker=https://github.com/VivekTiwariAidash/bngai-ops-plugins/issues
+experimental=True
+icon=icon.png
