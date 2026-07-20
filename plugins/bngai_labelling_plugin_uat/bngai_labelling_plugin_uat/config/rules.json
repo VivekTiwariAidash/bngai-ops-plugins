@@ -1,0 +1,668 @@
+{
+  "f7": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "structures"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "buildings"
+        },
+        {
+          "column": "area",
+          "operator": "<",
+          "value": 20000
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "oslandcovertiera",
+          "value": "made"
+        },
+        {
+          "column": "oslandcovertierb",
+          "value": "made sealed"
+        },
+        {
+          "column": "area",
+          "operator": "<",
+          "value": 20000
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "transport"
+        },
+        {
+          "column": "description",
+          "value": "road"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "transport"
+        },
+        {
+          "column": "description",
+          "value": "pavement"
+        }
+      ]
+    }
+  ],
+  "d9": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "area",
+          "operator": "<",
+          "value": 20000
+        },
+        {
+          "column": "description",
+          "value": "still water"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "open reservoir"
+        },
+        {
+          "column": "area",
+          "operator": "<",
+          "value": 20000
+        },
+        {
+          "column": "area",
+          "operator": ">",
+          "value": 25
+        }
+      ]
+    }
+  ],
+  "d10": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "open reservoir"
+        },
+        {
+          "column": "area",
+          "operator": "<",
+          "value": 25
+        }
+      ]
+    }
+  ],
+  "d2": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "moat"
+        }
+      ]
+    }
+  ],
+  "g7": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "reeds in water"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "reeds in watercourse"
+        },
+        {
+          "column": "area",
+          "operator": ">",
+          "value": 25
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "canal and reeds"
+        },
+        {
+          "column": "area",
+          "operator": ">",
+          "value": 25
+        }
+      ]
+    }
+  ],
+  "q1": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "watercourse"
+        },
+        {
+          "column": "oslandcovertierb",
+          "operator": "!=",
+          "value": "tidal water"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "canal"
+        },
+        {
+          "column": "oslandcovertierb",
+          "operator": "!=",
+          "value": "tidal water"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "canal feeder"
+        },
+        {
+          "column": "oslandcovertierb",
+          "operator": "!=",
+          "value": "tidal water"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "drain"
+        },
+        {
+          "column": "oslandcovertierb",
+          "operator": "!=",
+          "value": "tidal water"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "leat"
+        },
+        {
+          "column": "oslandcovertierb",
+          "operator": "!=",
+          "value": "tidal water"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "lock"
+        },
+        {
+          "column": "oslandcovertierb",
+          "operator": "!=",
+          "value": "tidal water"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "mill leat"
+        },
+        {
+          "column": "oslandcovertierb",
+          "operator": "!=",
+          "value": "tidal water"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "overflow"
+        },
+        {
+          "column": "oslandcovertierb",
+          "operator": "!=",
+          "value": "tidal water"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "waterfall"
+        },
+        {
+          "column": "oslandcovertierb",
+          "operator": "!=",
+          "value": "tidal water"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "reeds in watercourse"
+        },
+        {
+          "column": "area",
+          "operator": "<",
+          "value": 25
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "water"
+        },
+        {
+          "column": "description",
+          "value": "canal and reeds"
+        },
+        {
+          "column": "area",
+          "operator": "<",
+          "value": 25
+        }
+      ]
+    }
+  ],
+  "f2": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "transport"
+        },
+        {
+          "column": "oslandcovertiera",
+          "value": "made"
+        },
+        {
+          "column": "oslandcovertierb",
+          "value": "made unsealed"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "transport"
+        },
+        {
+          "column": "description",
+          "value": "track"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "transport"
+        },
+        {
+          "column": "description",
+          "value": "landfill"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "transport"
+        },
+        {
+          "column": "description",
+          "value": "spoils heap"
+        }
+      ]
+    }
+  ],
+  "b7": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "transport"
+        },
+        {
+          "column": "description",
+          "value": "transport curtilage"
+        },
+        {
+          "column": "oslandcovertiera",
+          "value": "open vegetation"
+        },
+        {
+          "column": "oslandcovertierb",
+          "value": "bare earth or grass"
+        },
+        {
+          "column": "oslandusetiera",
+          "value": "transport: road, track or path"
+        },
+        {
+          "column": "min_distance_to_sealed",
+          "operator": "<",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "land"
+        },
+        {
+          "column": "description",
+          "value": "bare earth or grass"
+        },
+        {
+          "column": "area",
+          "operator": "<",
+          "value": 500
+        },
+        {
+          "column": "min_distance_to_sealed",
+          "operator": "<",
+          "value": 15
+        }
+      ]
+    }
+  ],
+  "b9": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "transport"
+        },
+        {
+          "column": "description",
+          "value": "transport Curtilage"
+        },
+        {
+          "column": "oslandcovertiera",
+          "value": "open vegetation"
+        },
+        {
+          "column": "oslandcovertierb",
+          "value": "bare earth or grass"
+        },
+        {
+          "column": "oslandusetiera",
+          "value": "transport: rail"
+        }
+      ]
+    }
+  ],
+  "f13": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "land"
+        },
+        {
+          "column": "description",
+          "value": "floral clock"
+        }
+      ]
+    }
+  ],
+  "f21": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "land"
+        },
+        {
+          "column": "description",
+          "value": "residential garden"
+        },
+        {
+          "column": "imagery_present",
+          "value": 1
+        },
+        {
+          "column": "ndvi_vegetation_percent",
+          "operator": ">",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "land"
+        },
+        {
+          "column": "description",
+          "value": "residential garden"
+        },
+        {
+          "column": "imagery_present",
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "f19": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "land"
+        },
+        {
+          "column": "description",
+          "value": "residential garden"
+        },
+        {
+          "column": "imagery_present",
+          "value": 1
+        },
+        {
+          "column": "ndvi_vegetation_percent",
+          "operator": "<=",
+          "value": 15
+        }
+      ]
+    }
+  ],
+  "f16": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "land"
+        },
+        {
+          "column": "description",
+          "value": "quarry"
+        }
+      ]
+    }
+  ],
+  "a7": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "land"
+        },
+        {
+          "column": "description",
+          "value": "vinyard"
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "land"
+        },
+        {
+          "column": "description",
+          "value": "watercress bed"
+        }
+      ]
+    }
+  ],
+  "a8": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "land"
+        },
+        {
+          "column": "description",
+          "value": "orchard"
+        }
+      ]
+    }
+  ],
+  "k1": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "land"
+        },
+        {
+          "column": "description",
+          "value": "saltmarsh"
+        }
+      ]
+    }
+  ],
+  "c12": [
+    {
+      "conditions": [
+        {
+          "column": "theme",
+          "value": "land"
+        },
+        {
+          "column": "description",
+          "value": "heath"
+        }
+      ]
+    }
+  ]
+}
