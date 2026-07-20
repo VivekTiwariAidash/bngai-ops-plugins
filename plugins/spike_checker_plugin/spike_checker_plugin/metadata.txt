@@ -1,0 +1,17 @@
+[general]
+name=Spike Error Checker
+qgisMinimumVersion=3.0
+description=Detects spike/sharp angle errors in polygon shapefiles and marks them as point layers in QGIS
+version=1.0
+author=AiDash
+email=udit@aidash.com
+about=Loads a polygon shapefile, detects vertices with angle < 2 degrees (spike errors), lists them in a table, creates a point layer marking each spike tip and loads it into QGIS automatically.
+tracker=
+repository=
+hasProcessingProvider=no
+homepage=
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
+tags=polygon,spike,error,topology,quality
