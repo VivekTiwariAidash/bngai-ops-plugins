@@ -9,7 +9,7 @@ qgisMinimumVersion=3.28
 description=OS based labelling and file format conversions
 version=2.0.0
 author=AiDash
-email=ankit.vyas@aidash.com, subhadip.de@aidash.com,pushpak.ruhil@aidash.com
+email=udit.saikia@aidash.com, ankit.vyas@aidash.com, subhadip.de@aidash.com,pushpak.ruhil@aidash.com
 
 about=identify habitats and convert files from gpkg to shp and vice versa
 
